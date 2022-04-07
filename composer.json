@@ -1,5 +1,5 @@
 {
-    "name": "lucascarber/php-composer",
+    "name": "lucascarber/bucador-de-cursos",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^7.4",
