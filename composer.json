@@ -1,5 +1,5 @@
 {
-    "name": "lucas/php-composer",
+    "name": "lucascarber/php-composer",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^7.4",
